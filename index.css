@@ -73,7 +73,7 @@ nav ul li a{
     color: #fff;
     text-decoration:underline;
 }
-nav ul li a:hover{
+/* nav ul li a:hover{
     text-decoration:underline;
 }
 nav ul,nav:active ul{
@@ -94,16 +94,16 @@ nav:hover ul{
 }
 
 /* end nav */
-.left-col{
+/* .left-col{
     width: 60px;
     float: left;
     margin: 4% 0 4% 4%;
-}
-sidebar{
+} */
+/* sidebar{
     width: 26%;
     float: left;
     margin: 4%;
-}
+} */
 .port1{
     width: 29.333333%;
     padding: 2%;
@@ -111,11 +111,11 @@ sidebar{
     text-align: center;
 
 }
-.contact p{
+/* .contact p{
     text-align: center;
     letter-spacing: 5px;
 
-}
+} */
 .contact{
     color: #2c2c2c;
 }
@@ -128,7 +128,7 @@ clarflix{
 }
 footer.second{
     background-color: #2c2c2c;
-}
+} */
 
 footer.second p{
     color: #fff;
